@@ -20,16 +20,6 @@
 | Overleaf 專案 | [DietSense DIC4 Before](https://www.overleaf.com/project/6b07e4d866226db300e5848a) | [DietSense DIC4 After](https://www.overleaf.com/project/6b07e69a0b58b245f496dacc) |
 | Overleaf 編譯 | 0 錯誤、0 警告 | 0 錯誤、0 警告 |
 
-詳細修改理由見 [修改對照說明](revision-notes.md)，逐行差異見 [LaTeX revision.diff](paper/revision.diff)。修改前是本次新建立的英文稿；兩版均為研究提案，尚未完成實驗。
-
-## 閱讀順序
-
-1. [教授要求與目標](goal.md)
-2. [修改後論文 PDF 6 頁](paper/after/main.pdf) 與 [修改前初稿 PDF 2 頁](paper/before/main.pdf)
-   - [修訂稿 LaTeX](paper/after/main.tex) 與 [初稿 LaTeX](paper/before/main.tex)
-3. [修改對照](revision-notes.md)
-4. [設計](design.md)、[任務狀態](task.md)、[OpenSpec 變更](openspec/changes/dic4-paper-draft/)
-5. [Overleaf 專案與操作紀錄](OVERLEAF_GUIDE.md)
 
 ## 內容與邊界
 論文核心為 Abstract、Introduction、Related Work，補有支撐方法、評估、限制與結論。before 是本次從 DIC3 整理的新英文初稿，不是既存 Overleaf 歷史。500 筆資料、20 人研究及 85%／60%／70 門檻皆是待驗證計畫，沒有宣稱實驗已完成。
