@@ -1,4 +1,4 @@
-# 王鼎昌 7115064172 DIC4 DietSense 投稿草稿
+# 王鼎昌 7115064172 DIC4 
 
 本作業延續 [DIC3 DietSense](https://github.com/dennis6651259-hub/1111-DoI3)，完成英文學術論文初稿及修訂稿，並用 OpenSpec 記錄修稿要求。使用者未指定投稿場域，採通用 article 格式。本 repository 為 DIC4 獨立交付入口，論文、規格及匯入檔均由下方連結取得。
 
