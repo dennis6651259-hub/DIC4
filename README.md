@@ -4,6 +4,10 @@
 
 ## 修改前／修改後 PDF 對照
 
+![修改前與修改後 PDF 首頁並排對照](assets/pdf-before-after.png)
+
+上圖為兩份實際 Overleaf PDF 的第一頁預覽，點擊圖片可放大；完整內容請開啟下表 PDF。
+
 下表 PDF 為實際從 Overleaf 編譯後下載的版本；點擊即可在 GitHub 閱讀。
 
 | 項目 | 修改前：英文初稿 v0 | 修改後：修訂稿 v1 |
