@@ -20,39 +20,3 @@
 | Overleaf 專案 | [DietSense DIC4 Before](https://www.overleaf.com/project/6b07e4d866226db300e5848a) | [DietSense DIC4 After](https://www.overleaf.com/project/6b07e69a0b58b245f496dacc) |
 | Overleaf 編譯 | 0 錯誤、0 警告 | 0 錯誤、0 警告 |
 
-
-## 內容與邊界
-論文核心為 Abstract、Introduction、Related Work，補有支撐方法、評估、限制與結論。before 是本次從 DIC3 整理的新英文初稿，不是既存 Overleaf 歷史。500 筆資料、20 人研究及 85%／60%／70 門檻皆是待驗證計畫，沒有宣稱實驗已完成。
-
-## LaTeX
-兩個版本各自只有 main.tex，內含可點擊參考文獻。Overleaf 選 pdfLaTeX；本地可用 `latexmk -pdf main.tex`。paper/references.bib 為另外提供的 BibTeX 書目資料，現有 main.tex 使用內嵌書目，不需要 BibTeX。
-
-## OpenSpec 重現
-固定 CLI 1.17.0，執行環境需符合該版套件 engines。可在本目錄執行：
-
-```sh
-npx --yes @fission-ai/openspec@1.17.0 --version
-npx --yes @fission-ai/openspec@1.17.0 status --change dic4-paper-draft
-npx --yes @fission-ai/openspec@1.17.0 validate dic4-paper-draft --strict
-```
-
-實際執行紀錄見 validation/。OpenSpec 格式通過不表示原型測試通過。task.md 區分文件完成、交付驗證、外部操作與後續研究。
-
-## Overleaf 實際專案
-
-- [修改前：DietSense DIC4 Before](https://www.overleaf.com/project/6b07e4d866226db300e5848a)（2 頁）
-- [修改後：DietSense DIC4 After](https://www.overleaf.com/project/6b07e69a0b58b245f496dacc)（6 頁）
-- [Overleaf 下載的修改前 PDF](validation/overleaf/DietSense_DIC4_Before.pdf)／[修改後 PDF](validation/overleaf/DietSense_DIC4_After.pdf)
-
-已透過一般 Chrome 完成兩份 ZIP 匯入、命名、編譯檢查及 PDF 下載，兩份均為 Errors 0、Warnings 0。專案連結需要擁有者登入或授權；PDF 可從本 repository 閱讀。
-
-## Overleaf MCP
-
-已安裝 overleaf-web-mcp 1.4.1 並完成握手與工具列舉，但 MCP 登入未成功；尚未完成經 MCP 的專案讀寫／編譯。使用者指定改用一般 Chrome，所以上述實際操作不冒充 MCP 證據。詳見 [操作與限制紀錄](validation/overleaf-evidence.md)。
-
-## Overleaf 匯入檔
-
-- [修改前 ZIP](overleaf/DIC4_Overleaf_Before.zip)
-- [修改後 ZIP](overleaf/DIC4_Overleaf_After.zip)
-
-解壓或直接 Upload Project 後以 main.tex 為主檔。實際專案與編譯紀錄已補入 OVERLEAF_GUIDE.md；MCP 已安裝，驗證登入後的操作仍待完成。
