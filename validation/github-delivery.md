@@ -7,7 +7,9 @@
 - 作業入口：https://github.com/dennis6651259-hub/DIC4
 - 分支：main
 - 檔案直接位於 repository 根目錄，包含 paper、openspec、overleaf 與 goal.md、design.md、task.md。
-- 上傳及讀回驗證進行中，完成後更新本紀錄。
+- 已上傳並讀回 README，遞迴 Git tree 確認全部 33 個檔案存在。
+- 已核對兩份 PDF 與兩份 Overleaf ZIP 的 blob SHA。
+- 獨立 repository 首次完整交付 commit：65b42183224e55777db3c0fff14a78264e1c2be4。
 
 ## 原先交付紀錄
 

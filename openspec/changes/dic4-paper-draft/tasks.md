@@ -13,7 +13,7 @@
 - [x] 3.1 Validate this change using OpenSpec 1.17.0 strict mode.
 - [x] 3.2 Compile and inspect the final before and after manuscripts.
 - [x] 3.3 Package standalone Overleaf projects and verify archive contents.
-- [ ] 3.4 Publish the DIC4 artifacts to the user-designated standalone GitHub repository and read back.
+- [x] 3.4 Publish the DIC4 artifacts to the user-designated standalone GitHub repository and read back.
 
 ## 4. External integration evidence
 - [ ] 4.1 Import both projects into Overleaf and record actual links.
