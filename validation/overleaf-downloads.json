@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "timezone": "Asia/Taipei",
+  "method": "Regular logged-in Google Chrome, controlled through Computer Use",
+  "projects": [
+    {
+      "project": "DietSense DIC4 Before",
+      "url": "https://www.overleaf.com/project/6b07e4d866226db300e5848a",
+      "pages": 2,
+      "errors": 0,
+      "warnings": 0,
+      "compile_status": "Compile finished",
+      "download": "validation/overleaf/DietSense_DIC4_Before.pdf",
+      "bytes": 198858,
+      "sha256": "0f0d9f2ea09b5b4a164971dfcb5102cfad667982f512de4e1c4f9b1377a04a14",
+      "git_blob_sha": "10f416955904ec25285ed8a8d19e2cf438c863fd"
+    },
+    {
+      "project": "DietSense DIC4 After",
+      "url": "https://www.overleaf.com/project/6b07e69a0b58b245f496dacc",
+      "pages": 6,
+      "errors": 0,
+      "warnings": 0,
+      "compile_status": "Compile finished",
+      "download": "validation/overleaf/DietSense_DIC4_After.pdf",
+      "bytes": 278080,
+      "sha256": "d96ef774a5448dbd40561fd8eb81ae15e38fc2b20ba1267a381c5698ec366133",
+      "git_blob_sha": "19e53a36e316063daeb472ff8fb283f9e66d749c"
+    }
+  ]
+}

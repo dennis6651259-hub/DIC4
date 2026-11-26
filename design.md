@@ -23,4 +23,4 @@ DIC3 來源為 https://github.com/dennis6651259-hub/1111-DoI3 ，本次讀取的
 OpenSpec 1.17.0 為本次固定驗證版，沿用 DIC3 已有的本地安裝，實際執行 version、status、strict validate。格式驗證只代表工件符合 schema。LaTeX 編譯成功只代表來源可編譯。兩者都不代表 DietSense 原型、實驗或 MCP 已完成。
 
 ## External dependencies
-目前工具清單沒有 Overleaf MCP。提供完整 ZIP、匯入步驟和待補證據，不放入密碼或猜測 MCP endpoint。GitHub 交付於使用者指定的獨立 repository https://github.com/dennis6651259-hub/DIC4 ，檔案直接位於 main 根目錄。原 DIC3 repository 為提案來源。
+已安裝並註冊 Overleaf MCP，完成握手但登入未成功；依使用者指示，透過一般 Chrome 實際匯入、編譯並下載 before／after，證據見 validation/overleaf-evidence.md。MCP 的驗證登入後操作仍待完成，不放入密碼、cookie 或 token。GitHub 交付於使用者指定的獨立 repository https://github.com/dennis6651259-hub/DIC4 ，檔案直接位於 main 根目錄。原 DIC3 repository 為提案來源。

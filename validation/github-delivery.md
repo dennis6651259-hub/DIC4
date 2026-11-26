@@ -15,4 +15,4 @@
 
 原先已交付於 1111-DoI3 的 dic4-paper-draft 分支；當時完整版本為 61a4c316aaa27d7dfcc362bb6a8a2bedec314d56。本次依使用者指定改交至上述獨立 repository。
 
-此紀錄只關於 GitHub 交付。Overleaf 專案與 MCP 操作仍未執行，相關任務保持未勾選。
+本次另補兩個真實 Overleaf 專案連結、編譯與下載證據，並加入兩份 Overleaf 下載 PDF。一般 Chrome 操作完成；MCP 安裝與握手完成，驗證登入後的讀寫仍未完成，對應任務保持未勾選。

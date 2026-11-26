@@ -16,8 +16,11 @@
 - [x] 3.4 Publish the DIC4 artifacts to the user-designated standalone GitHub repository and read back.
 
 ## 4. External integration evidence
-- [ ] 4.1 Import both projects into Overleaf and record actual links.
+- [x] 4.1 Import both projects into Overleaf and record actual links.
 - [ ] 4.2 Execute an authenticated Overleaf MCP operation and retain sanitized evidence.
-- [ ] 4.3 Record before and after Overleaf screenshots and confirm author metadata.
+- [x] 4.3 Inspect both Overleaf compile logs and download PDFs; 0 errors and 0 warnings.
+- [x] 4.4 Install and register Overleaf MCP; verify initialize and tools/list.
+- [ ] 4.5 Confirm author metadata before formal submission.
+- [ ] 4.6 Optional: save before/after screenshots (not explicitly required in the source assignment).
 
 

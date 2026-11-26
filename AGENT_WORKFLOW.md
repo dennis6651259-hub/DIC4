@@ -1,6 +1,6 @@
 # Agent 修稿流程
 
-以下為本次採用的修稿規則，以及連接 Overleaf MCP 後可使用的操作提示。提示文字不是已執行的 MCP 證據。
+本次已完成規格修稿、一般 Chrome 上的 Overleaf 匯入與編譯。Overleaf MCP 已安裝及握手，但驗證登入未完成。以下 MCP 提示範本尚未執行，不是成功讀寫的證據。
 
 ## 本次規格先行
 1. 先讀 goal.md、design.md、OpenSpec proposal 與 specs，確認這是提案與評估協定。
@@ -13,7 +13,7 @@
 ```text
 請透過目前已授權的 Overleaf MCP 讀取我指定的 DietSense DIC4 After 專案。
 先列出專案 main.tex 與目前版本，不要猜測 project ID 或工具名稱。
-讀取 GitHub DIC4/goal.md、design.md、task.md 與 OpenSpec academic-manuscript 規格。
+讀取 DIC4 repository 根目錄的 goal.md、design.md、task.md 與 OpenSpec academic-manuscript 規格。
 檢查 Abstract、Introduction、Related Work 是否符合規格；列出具體需要修改的句子。
 保留 before 專案。若修改 after，記錄讀取版本、修改摘要與 diff。
 研究尚未實驗，不得把 500 筆、20 人或效能目標寫成結果。

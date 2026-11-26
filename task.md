@@ -17,10 +17,12 @@
 - [x] 驗證兩份 Overleaf ZIP 的必要檔案。
 - [x] 將 DIC4 發佈到使用者指定的獨立 GitHub repository 並讀回。
 
-## 外部操作待完成
-- [ ] 在 Overleaf 匯入 before 與 after，取得實際專案連結。
+## 外部操作與剩餘事項
+- [x] 在 Overleaf 匯入 before 與 after，取得實際專案連結並檢查編譯。
+- [x] 透過一般 Chrome 下載兩份 Overleaf PDF 並驗證頁數。
+- [x] 安裝 Overleaf MCP、註冊並完成 stdio 握手與工具列舉。
 - [ ] 連接可用 Overleaf MCP，以 Agent 讀取或修訂專案並保存真實呼叫證據。
-- [ ] 補齊教授需要的 Overleaf 前後畫面與 MCP 操作截圖。
+- [ ] 可選：另存 Overleaf 前後畫面及成功 MCP 操作截圖（目前未保存；教授原文未明列截圖要求）。
 - [ ] 作者確認英文姓名拼法、隸屬與正式投稿場域。
 
 ## 後續研究不屬本次已完成成果
